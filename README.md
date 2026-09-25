@@ -1,4 +1,4 @@
-# Predicci-n-de-Abandono-Churn-
+# Prediccion-de-Abandono-Churn-
 Modelo creado para la predicción de abandono de clientes
 ***Informe final*** — Predicción de abandono de clientes Interconnect (Churn)
 1. ***Objetivo del proyecto***
